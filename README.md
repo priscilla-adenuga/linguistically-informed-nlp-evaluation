@@ -85,6 +85,8 @@ The following examples illustrate different types of negation:
 
 These distinctions show that negation is not uniform and cannot always be captured by surface-level features alone.
 
+For detailed qualitative examples, see [Error Analysis](analysis/error_analysis.md)
+
 ---
 
 ## Key Takeaways
